@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AidenFSD
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning FSD in John Abbott College
-- 💞️ I’m looking to collaborate on how to design my first web page
+- 🌱 I’m currently studying FSD at John Abbott College
+- 💞️ EXCITED!!
 - 📫 How to reach me, right here or buy me a coffee, or allow me to buy you a coffee, hehehe. 
 
 <!---
