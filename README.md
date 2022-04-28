@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying FSD at John Abbott College
 - 💞️ EXCITED!!
 - 📫 This is my first personal web page! Please take a look. 
+- [Link to Google](https://www.google.com)
 - [This is an external link to my first personal page] (aidenfsd.github.io/my-frist-webpage/)
 
 <!---
