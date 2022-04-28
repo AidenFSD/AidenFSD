@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying FSD at John Abbott College
 - 💞️ EXCITED!!
-- 📫 How to reach me, right here or buy me a coffee, or allow me to buy you a coffee, hehehe. 
+- 📫 This is my first personal web page! Please take a look. aidenfsd.github.io/my-frist-webpage/ 
 
 <!---
 AidenFSD/AidenFSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
