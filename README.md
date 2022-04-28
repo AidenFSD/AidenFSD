@@ -4,7 +4,7 @@
 - 💞️ EXCITED!!
 - 📫 This is my first personal web page! Please take a look. 
 - [Link to Google](https://www.google.com)
-- [Link to my page](aidenfsd.github.io/my-frist-webpage)
+- [Link to my page](https://aidenfsd.github.io/My-Frist-Webpage/index.html)
 
 <!---
 AidenFSD/AidenFSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
