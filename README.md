@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying FSD at John Abbott College
 - 💞️ EXCITED!!
 - 📫 This is my first personal web page! Please take a look. 
-- [Link to My First Page](https://aidenfsd.github.io/My-Frist-Webpage/index.html)
+- [Link to My First Page](https://aidenfsd.github.io/My-Frist-Webpage/index.html){:target="_blank" rel="noopener"}
 
 <!---
 AidenFSD/AidenFSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
