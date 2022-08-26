@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I’ve been learning to code for 4 months, after switching career. I am now enrolled in John Abbot College's full-time intense Full Stack Development program. I began with HTML and have developed a strong interest in front end programming. Let's see how things proceed :)
+I’ve been learning to code for 4 months, after switching career. I am now enrolled in John Abbott College's full-time intense Full Stack Development program. I began with HTML and have developed a strong interest in front end programming. Let's see how things proceed :)
 
-* 🌍  I'm based in Montréal
+* 🌍  I'm based in Montréal, Canada
 * ✉️  You can contact me at [zhengliang.li@mail.concordia.ca](mailto:zhengliang.li@mail.concordia.ca)
 * 🧠  I'm learning Full Stack Development but focuse on Front End programming
 * 🤝  I'm open to collaborating on intersting projects
